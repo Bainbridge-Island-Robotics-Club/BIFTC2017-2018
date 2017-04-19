@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/darwin/Programming/BIFTC2016-17/Team8745/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/darwin/Programming/BIFTC2016-17/Team8745/build/intermediates/exploded-aar/BIFTC2016-17/FtcRobotController/unspecified/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]
