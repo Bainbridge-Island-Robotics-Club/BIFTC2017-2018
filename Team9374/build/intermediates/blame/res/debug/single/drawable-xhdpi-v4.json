@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/darwin/Programming/BIFTC2016-17/Team9374/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/darwin/Programming/BIFTC2016-17/Team9374/build/intermediates/exploded-aar/BIFTC2016-17/FtcRobotController/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/darwin/Programming/BIFTC2016-17/Team9374/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_menu.png",
+        "source": "/Users/darwin/Programming/BIFTC2016-17/Team9374/build/intermediates/exploded-aar/BIFTC2016-17/FtcRobotController/unspecified/res/drawable-xhdpi-v4/icon_menu.png"
+    },
+    {
+        "merged": "/Users/darwin/Programming/BIFTC2016-17/Team9374/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_robotcontroller.png",
+        "source": "/Users/darwin/Programming/BIFTC2016-17/Team9374/build/intermediates/exploded-aar/BIFTC2016-17/FtcRobotController/unspecified/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    }
+]
